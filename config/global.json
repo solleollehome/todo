@@ -1,0 +1,14 @@
+{
+    "applications": {
+        "_default": {
+            "link": "lalala"
+        }, 
+        "lalala": {
+            "applicationId": "mT3F2fOsrDPK19KEZ1o4neqTgRN9ngBolql5s95o", 
+            "masterKey": "lm2dlUOinCK73rWDAqN2tK0CbPPVw5QznoAFdTR0"
+        }
+    }, 
+    "global": {
+        "parseVersion": "1.3.2"
+    }
+}
